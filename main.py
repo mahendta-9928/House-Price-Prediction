@@ -155,7 +155,7 @@ with st.sidebar:
 
     st.divider()
 
-    st.caption("© 2026 EstateIQ")
+    st.caption("© 2026 EstateIQ  -- BY Mahendra Sharma")
 
 
 # ---------------- DASHBOARD ----------------
